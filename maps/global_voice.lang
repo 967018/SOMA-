@@ -1,0 +1,16 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_global">
+        <Entry Name="globaltestscene_globaltestsub_001_globaltestchar_001">[u36825][u26159][u20010][u20840][u23616][u27979][u35797][u65281]</Entry>
+        <Entry Name="globaltestscene_firstdatamine_001_player_001">[u36825][u8212][u8212][u25105][u24590][u20040][u21150][u21040][u30340][u65311]</Entry>
+        <Entry Name="globaltestscene_firstwauflower_human_001_player_001">[u21834][u65292][u37027][u26159][u20160][u20040][u65311]</Entry>
+        <Entry Name="globaltestscene_firstwauflower_tentacle_001_player_001">[u22825][u21834][u65292][u36825][u21040][u24213][u8212][u8212]</Entry>
+        <Entry Name="globaltestscene_getflashlight_001_player_001">[u20026][u20160][u20040][u25105][u8212][u8212][u25105][u20174][u21738][u37324][u25343][u30340][u25163][u30005][u31570][u65311]</Entry>
+        <Entry Name="globaltestscene_getflashlightunderwater_001_player_001">[u20026][u20160][u20040][u25105][u8212][u8212][u25105][u20174][u21738][u37324][u25343][u30340][u25163][u30005][u31570][u65311]</Entry>
+        <Entry Name="GlobalTestScene_WauFlower_CathAndSimon_001_Catherine_001">[u20320][u21040][u24213][u22312][u24178][u20160][u20040][u65311]</Entry>
+        <Entry Name="GlobalTestScene_WauFlower_CathAndSimon_002_Player_001">[u25105][u30693][u36947][u36825][u24456][u24694][u24515][u65292][u20294][u35302][u30896][u23427][u25105][u24863][u35273][u24456][u22909][u12290][u25105][u26356][u28165][u37266][u20102][u12290]</Entry>
+        <Entry Name="GlobalTestScene_WauFlower_CathAndSimon_003_Catherine_001">[u36825][u8230][u8230][u25105][u30340][u24847][u24605][u26159][u20320][u36825][u26159][u22312][u36319] WAU [u32852][u31995][u12290]</Entry>
+        <Entry Name="GlobalTestScene_WauFlower_CathAndSimon_004_Player_001">[u25105][u38656][u35201][u23427][u65292][u34892][u21527][u65311][u25105][u33021][u36208][u21040][u36825][u19968][u27493][u21487][u22810][u20111][u20102][u23427][u12290]</Entry>
+        <Entry Name="GlobalTestScene_WauFlower_CathAndSimon_005_Catherine_001">[u35753][u25105][u20204][u32487][u32493][u21543][u12290]</Entry>
+        <Entry Name="globaltestscene_firstwauflower_human_001_player_002">[u36825][u19981][u20250][u23475][u21040][u20219][u20309][u20154][u12290]</Entry>
+    </CATEGORY>
+</LANGUAGE>

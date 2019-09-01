@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content Version="1.0"
+	Type="AddOn"
+	Title="SOMA Simplified Chinese"
+	Author="UTL_1138"
+	Description="Patch for Simplified Chinese localization."
+	
+	LanguageFolder="config/lang"
+/>

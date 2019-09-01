@@ -1,0 +1,36 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_00_01_apartment">
+        <Entry Name="Phonecall_1_PhoneCall_001_Player_001">[u20320][u22909][u65281]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_002_David_001">[u20320][u22909][u65292]Simon Jarrett[u65311]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_003_Player_001">[u23545][u65292][u26159][u25105][u12290]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_004_David_001">[u25105][u26159] David Munshi[u12290][u25105][u20204][u20043][u21069][u35848][u36807][u8230][u8230]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_005_Player_001">[u33041][u25195][u25551][u65281][u25105][u35760][u24471][u12290]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_006_David_001">[u20320][u36824][u22909][u21527][u65311]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_007_Player_001">[u36824][u22909][u65292][u36824][u22909][u65292][u21482][u26159][u20570][u20102][u20010][u22121][u26790][u12290][u20170][u22825][u36824][u20570][u33041][u25195][u25551][u21527][u65311]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_008_David_001">[u24403][u28982][u65292][u25171][u32473][u20320][u23601][u26159][u20026][u20102][u36825][u20107][u12290][u25105][u24819][u25552][u37266][u20320][u35760][u24471][u21917][u19979][u25105][u32473][u20320][u30340][u37027][u29942][u31034][u36394][u28082][u12290][u36825][u33021][u24110][u21161][u25105][u20204][u26356][u31934][u20934][u30340][u36776][u35782][u25439][u20260][u12290]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_009_Player_001">[u21035][u25285][u24515][u65292][u25105][u20250][u30340][u12290]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_010_David_001">[u24456][u22909][u12290][u20960][u23567][u26102][u21518][u25105][u22312][u23454][u39564][u23460][u31561][u20320][u12290]</Entry>
+        <Entry Name="Phonecall_1_PhoneCall_011_Player_001">[u22909][u30340][u65292][u20877][u35265][u12290]</Entry>
+        <Entry Name="SimonTalking_5_FoundTracer_001_Player_001">[u22312][u36825][u20799][u12290]</Entry>
+        <Entry Name="SimonTalking_6_DrinkTracer_001_Player_001">[u21475][u24863][u20687][u29275][u22902][u65292][u20294][u37027][u21619][u36947][u8230][u8230][u23601][u20687][u33300][u30828][u24065][u12290]</Entry>
+        <Entry Name="SimonTalking_7_BrokenShower_001_Player_001">[u26368][u22909][u21035][u35753][u21338][u22763][u31561][u22826][u20037][u65292][u36824][u26159][u22238][u26469][u20877][u27927][u21543][u12290]</Entry>
+        <Entry Name="SimonTalking_8_OpenDrapes_001_Player_001">[u22799][u22825][u21040][u20102][u12290][u24076][u26395][u21035][u22826][u28909][u12290]</Entry>
+        <Entry Name="SimonTalking_9_InspectFridge_001_Player_001">[u21482][u26377][u24555][u39184][u12290][u22238][u26469][u26102][u24212][u35813][u20080][u20123][u20581][u24247][u30340][u21507][u12290]</Entry>
+        <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_001">Hi[u65292]Simon[u12290][u25105][u26159] Jesse[u65281][u20320][u36825][u21608][u26411][u24037][u20316][u21527][u65311]</Entry>
+        <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_002">[u25105][u35760][u24471][u20320][u36825][u21608][u26411][u36824][u26159][u19979][u21608][u26411][u22909][u20687][u26377][u20107][u26469][u30528][u65311]</Entry>
+        <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_003">[u21571][u65292][u21453][u27491][u36890][u36807][u37038][u20214][u20043][u31867][u30340][u36890][u30693][u25105][u23601][u22909][u12290][u20040][u20040][u21714][u65281]</Entry>
+        <Entry Name="AnswerMachine_10_AnswerMachine_002_AnswerMachine_001">[u28040][u24687][u32467][u26463][u12290]</Entry>
+        <Entry Name="AnswerMachine_10_AnswerMachine_003_Player_001">[u36825][u20154][u35760][u24518][u21482][u26377]7[u31186][u21527][u8230][u8230]</Entry>
+        <Entry Name="SimonTalking_11_UseTV_001_Player_001">[u22909][u21543][u65292][u30475][u30005][u35270][u21482][u20250][u35753][u25105][u22836][u30140][u12290][u35874][u35874][u20320][u65292][u22823][u33041][u12290]</Entry>
+        <Entry Name="phonecall_12_trytoexit_001_player_001">[u21435][u35265] Munshi [u21338][u22763][u21069][u25105][u24471][u21917][u19979][u31034][u36394][u28082][u12290]</Entry>
+        <Entry Name="simontalking_13_tracerreminder_001_player_001">[u25105][u25226][u31034][u36394][u28082][u25918][u21738][u20102][u65311]</Entry>
+        <Entry Name="simontalking_13_tracerreminderb_001_player_001">[u31034][u36394][u28082][u65292][u24555][u26174][u29616][u12290]</Entry>
+        <Entry Name="answermachine_13_nonewmessages_001_answermachine_001">[u26080][u26410][u35835][u28040][u24687][u12290]</Entry>
+        <Entry Name="phonecall_1_phonecallover_001_player_001">...[u22825][u21834]... </Entry>
+        <Entry Name="simontalking_2_unsentmailreaction_001_player_001">[u24536][u35760][u21457][u37038][u20214][u20102][u12290][u24212][u35813][u27809][u20107][u21543][u65292][u25105][u20043][u21069][u21578][u35785][u36807][u20182][u20102][u12290]</Entry>
+        <Entry Name="simontalking_2_sentmailreaction_001_player_001">[u36831][u20570][u24635][u27604][u19981][u20570][u22909][u12290]</Entry>
+        <Entry Name="simontalking_2_unsentmailreaction_heardmsg_001_player_001">[u22114][u65292][u24536][u35760][u25353][u8220][u21457][u36865][u8221][u20102][u12290]</Entry>
+        <Entry Name="simontalking_10_answermachine_notreadmail_001_player_001">[u25105][u31455][u28982][u35201][u21457][u19968][u23553][u37038][u20214][u25552][u37266][u20182][u12290]</Entry>
+        <Entry Name="simontalking_10_answermachine_sentmail_001_player_001">[u21999][u65292][u25105][u21457][u20102][u37038][u20214][u65292][u20182][u29616][u22312][u24212][u35813][u36214][u19978][u24320][u24215][u20102][u12290]</Entry>
+    </CATEGORY>
+</LANGUAGE>

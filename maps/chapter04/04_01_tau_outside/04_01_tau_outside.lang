@@ -1,0 +1,46 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_04_01_tau_outside">
+        <Entry Name="diverblackbox_diverblackbox_001_diverblackboxa_001">Jesus, did you see that?</Entry>
+        <Entry Name="diverblackbox_diverblackbox_001_diverblackboxa_002">Stick to the lamplights, they won&apos;t go near them.</Entry>
+        <Entry Name="diverblackbox_diverblackbox_002_diverblackboxb_001">I can&apos;t fail, Glasser. It&apos;s important I reach Omicron. Our future depends on it!</Entry>
+        <Entry Name="diverblackbox_diverblackbox_003_diverblackboxa_001">Calm down. Let&apos;s just follow the path.</Entry>
+        <Entry Name="diverblackbox_diverblackbox_004_diverblackboxb_001">If I die, I need you to tell Julia Dahl that the WAU is out of control. She needs to get to Sarang. He&apos;ll know what to do.</Entry>
+        <Entry Name="diverblackbox_diverblackbox_005_diverblackboxa_001">Ross, you can tell them yourself. We just need to pick up the pace, okay?</Entry>
+        <Entry Name="diverblackbox_diverblackbox_006_diverblackboxb_001">Glass. We lost the path! We need to go back.</Entry>
+        <Entry Name="diverblackbox_diverblackbox_007_diverblackboxa_001">I know where to go. Come on.</Entry>
+        <Entry Name="diverblackbox_diverblackbox_008_diverblackboxb_001">It&apos;s over there, the light is over there!</Entry>
+        <Entry Name="diverblackbox_diverblackbox_009_diverblackboxa_001">Final push, Ross. Almost there, we just...</Entry>
+        <Entry Name="diverblackbox_diverblackbox_010_diverblackboxb_001">Look out!</Entry>
+        <Entry Name="cathchat_descentpart1_001_catherine_001">[u22114][u65292][u22826][u22909][u20102][u12290][u20320][u28165][u37266][u20102][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_002_player_001">[u24590][u20040][u22238][u20107][u65311]</Entry>
+        <Entry Name="cathchat_descentpart1_003_catherine_001">[u26377][u19996][u35199][u25481][u21040][u36735][u21410][u19978][u28982][u21518][u25226][u20320][u25171][u26197][u20102][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_004_player_001">[u20182][u23545][u25105][u35762][u20102][u35805][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_005_catherine_001">[u30475][u36215][u26469][u20687][u20010][u20154][u8212][u8212]WAU [u21046][u36896][u30340][u20854][u20013][u19968][u20010][u24618][u29289][u12290][u20182][u30447][u20102][u20320][u22909][u19968][u20250][u65292][u28982][u21518][u36339][u21521][u20102][u28145][u28170][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_006_player_001">[u23427][u35828][u23427][u20250][u20570][u22909][u20934][u22791][u30340][u65311][u36825][u35753][u25105][u24456][u19981][u23433][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_007_catherine_001">[u26159][u24456][u22855][u24618][u12290][u25105][u36824][u20197][u20026][u23427][u35201][u26432][u25481][u20320][u12290][u36824][u22909][u27809][u26377][u12290]</Entry>
+        <Entry Name="cathchat_descentpart1_008_player_001">[u25105][u20063][u26159][u36825][u20040][u24819][u30340][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_001_player_001">[u30475][u26679][u23376][u25105][u20204][u24555][u21040][u24213][u20102][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_002_catherine_001">[u37027][u23601][u22909][u65292][u37117][u19981][u30693][u36947][u25856][u30331][u32773][u36824][u33021][u25745][u22810][u20037][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_003_catherine_001">[u22909][u20102][u65292][u36825][u23601][u26159] Pathos-II [u30340] Omega [u22320][u24102][u65292][u21344][u20102][u22823][u27010][u19968][u33521][u20137][u30340][u28145][u28023][u24179][u21407][u12290][u25105][u24819][u25105][u20204][u21487][u33021][u35201][u27493][u34892][u19968][u27573][u36335][u21040] Tau[u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_004_player_001">[u20320][u20043][u21069][u27809][u26469][u36807][u36825][u37324][u65311]</Entry>
+        <Entry Name="cathchat_descentpart2_005_catherine_001">[u26469][u36807][u20063][u27809][u20160][u20040][u26377][u20215][u20540][u30340][u20449][u24687][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_006_player_001">[u20063][u26159][u65292][u21478][u19968][u20010][u20320][u26469][u36807][u12290][u25105][u20204][u22312][u37325][u36208][u20320][u30340][u32769][u36335][u65292]Cath[u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_007_catherine_001">[u22312][u25105][u36824][u33021][u30041][u19979][u33050][u21360][u30340][u26102][u20505][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_008_player_001">[u20005][u26684][u24847][u20041][u26469][u35828][u20320][u21487][u33021][u36824][u22312][u21738][u37324][u27963][u30528][u21602][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_009_catherine_001">[u21035][u25552][u37266][u25105][u36825][u28857][u12290][u25105][u20250][u24515][u37324][u21457][u27611][u30340][u12290]</Entry>
+        <Entry Name="cathchat_descentpart2_009_catherine_002">[u22909][u20102][u65292][u25105][u20204][u21435] Tau [u23547][u25214][u26041][u33311][u21543][u12290]</Entry>
+        <Entry Name="datamine_intercom_pedersen_1_001_pedersen_001">Tau. Come in, Tau. Please answer, Tau.</Entry>
+        <Entry Name="datamine_intercom_pedersen_1_001_pedersen_002">Nothing. It&apos;s dead.</Entry>
+        <Entry Name="datamine_intercom_pedersen_1_002_lindwall_001">Let&apos;s move out. We&apos;ll try the next one.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_001_pedersen_001">Tau, can you hear this? Anyone there?</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_002_diverblackboxa_001">This is Tau. Who is this?</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_003_pedersen_001">This is Ian Pedersen of Theta calling. I got a team with me and we&apos;re about half a kilometer from Tau.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_004_diverblackboxa_001">What, how, how did...? You came in the Climber?</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_005_pedersen_001">Listen, we&apos;re having a really hard time with this sector.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_005_pedersen_002">Heavy turbulence is making it difficult to move forward and the wildlife you got is absolutely rabid.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_006_diverblackboxa_001">The storm comes and goes. Instruments show the weather is relatively fair right now. You should move out as soon as possible.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_006_diverblackboxa_002">Stick to the lights and the critters should leave you alone.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_007_pedersen_001">All right, you heard the man. We&apos;re moving out, people.</Entry>
+        <Entry Name="datamine_intercom_pedersen_2_007_pedersen_002">Tau. Keep the doors unlocked, we&apos;re coming in.</Entry>
+    </CATEGORY>
+</LANGUAGE>

@@ -1,0 +1,47 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_05_02_ARK_inside">
+        <Entry Name="general_1bwakeup_001_simon_001">哇噢。这里是？成功了吗？</Entry>
+        <Entry Name="general_1dcommentonworld_001_simon_001">太神奇了！</Entry>
+        <Entry Name="general_1dcommentonworld_002_simon_001">这感觉太真实了。</Entry>
+        <Entry Name="general_1dcommentonworld_003_simon_001">不敢相信我们成功了。</Entry>
+        <Entry Name="general_1dcommentonworld_004_simon_001">太好了，我们成功了！</Entry>
+        <Entry Name="general_1eseecatherine_001_simon_001">Catherine？</Entry>
+        <Entry Name="general_1eseecatherineprompts_001_catherine_001">你好啊。请坐。</Entry>
+        <Entry Name="general_1eseecatherineprompts_002_catherine_001">快来，坐在我旁边。</Entry>
+        <Entry Name="general_1eseecatherineprompts_003_catherine_001">过来坐，Simon。</Entry>
+        <Entry Name="general_1eseecatherineprompts_004_catherine_001">快坐下吧。</Entry>
+        <Entry Name="general_1fbenchtalk_001_simon_001">这太真实了。我是说这跟现实世界没两样。</Entry>
+        <Entry Name="general_1fbenchtalk_002_catherine_001">谢谢。很高兴你喜欢这里。</Entry>
+        <Entry Name="general_1fbenchtalk_003_simon_001">这真是方舟，对吧？</Entry>
+        <Entry Name="general_1fbenchtalk_004_catherine_001">当然，不然还能是哪里？</Entry>
+        <Entry Name="general_1fbenchtalk_005_simon_001">那我们真的大功告成了。我预想这里是个天堂，但……</Entry>
+        <Entry Name="general_1fbenchtalk_006_catherine_001">……比在 Pathos 里好多了？</Entry>
+        <Entry Name="general_1fbenchtalk_007_simon_001">这说法就太轻描淡写了。我们安全了吗？</Entry>
+        <Entry Name="general_1fbenchtalk_008_catherine_001">是的。我们安全地环绕着太阳。</Entry>
+        <Entry Name="general_1fbenchtalk_009_simon_001">那大家都好吗？</Entry>
+        <Entry Name="general_1fbenchtalk_010_catherine_001">Brandon 在这，如果你是指他的话。</Entry>
+        <Entry Name="general_1fbenchtalk_011_simon_001">那 Lindwall 呢？</Entry>
+        <Entry Name="general_1fbenchtalk_012_catherine_001">Sarah？她在这。</Entry>
+        <Entry Name="general_1fbenchtalk_013_simon_001">所以你不需要我做任何事了？</Entry>
+        <Entry Name="general_1fbenchtalk_014_catherine_001">嗯哼，你可以看那边。</Entry>
+        <Entry Name="general_1fplayernotlooking1_001_simon_001">哪边？</Entry>
+        <Entry Name="general_1fplayernotlooking1_002_catherine_001">那。</Entry>
+        <Entry Name="general_1fplayernotlooking2_001_simon_001">哪？</Entry>
+        <Entry Name="general_1fplayernotlooking2_002_catherine_001">湖的另一边。</Entry>
+        <Entry Name="general_1fplayernotlooking3_001_simon_001">呃，我不知道我该看向哪一边。</Entry>
+        <Entry Name="general_1fplayernotlooking3_002_catherine_001">*叹息声* 再望望看，天才。</Entry>
+        <Entry Name="general_1garkcityappears_001_simon_001">那是什么？</Entry>
+        <Entry Name="general_1garkcityappears_002_catherine_001">那是我们正在建造的城市。</Entry>
+        <Entry Name="general_1garkcityappears_003_simon_001">有给我留个房间吗？</Entry>
+        <Entry Name="general_1garkcityappears_004_catherine_001">当然有。</Entry>
+        <Entry Name="general_1hboatreminders1_001_catherine_001">让我们出发吧。</Entry>
+        <Entry Name="general_1hboatreminders2_001_catherine_001">快过来吧。难道你不好奇吗？</Entry>
+        <Entry Name="general_1hboatreminders3_001_catherine_001">快来，Simon。该回家了。</Entry>
+        <Entry Name="general_1eseecatherine2_ver1_001_player_001">Catherine！</Entry>
+        <Entry Name="general_1eseecatherine2_ver1_002_catherine_001">我们成功了！</Entry>
+        <Entry Name="general_1ESeeCatherine2_Ver2_001_Player_001">Catherine！我们真的成功了！</Entry>
+        <Entry Name="general_1ESeeCatherine2_Ver2_002_Catherine_001">可不是嘛。</Entry>
+        <Entry Name="general_1ESeeCatherine2_Ver3_001_Player_001">我们办到了，Catherine！我们进方舟了。</Entry>
+        <Entry Name="general_1ESeeCatherine2_Ver3_002_Catherine_001">我就知道我们会成功！</Entry>
+    </CATEGORY>
+</LANGUAGE>

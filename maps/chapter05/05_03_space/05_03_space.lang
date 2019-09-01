@@ -1,0 +1,15 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_05_03_space">
+        <Entry Name="general_finalwords_version1_001_player_001">[u36825][u22320][u26041][u22826][u19981][u21487][u24605][u35758][u20102][u12290]</Entry>
+        <Entry Name="general_finalwords_version1_002_catherine_001">[u24456][u39640][u20852][u20320][u21916][u27426][u36825][u37324][u12290]</Entry>
+        <Entry Name="general_finalwords_version1_003_player_001">[u36825][u36319][u29616][u23454][u19990][u30028][u22826][u20687][u20102][u12290]</Entry>
+        <Entry Name="general_finalwords_version2_001_player_001">[u25105][u31616][u30452][u19981][u25954][u30456][u20449][u25105][u20204][u30495][u25104][u21151][u20102][u12290]</Entry>
+        <Entry Name="general_finalwords_version2_002_catherine_001">[u20107][u23454][u23601][u22312][u20320][u30524][u21069][u12290]</Entry>
+        <Entry Name="general_finalwords_version2_003_player_001">[u25105][u35299][u33073][u20102][u12290]</Entry>
+        <Entry Name="general_finalwords_version2_004_catherine_001">[u24050][u32463][u27809][u20107][u20102][u65292]Simon[u12290][u25152][u26377][u20107][u24773][u37117][u21150][u22949][u20102][u12290]</Entry>
+        <Entry Name="general_finalwords_version3_001_player_001">[u22823][u23478][u37117][u36824][u22909][u21543][u65311][u25105][u20204][u25327][u25937][u20182][u20204][u20102][u21527][u65311]</Entry>
+        <Entry Name="general_finalwords_version3_002_catherine_001">[u24403][u28982][u12290][u25105][u20204][u25327][u25937][u20102][u25152][u26377][u20154][u12290]</Entry>
+        <Entry Name="general_finalwords_version4_001_player_001">[u32676][u26143][u20013][u30340][u27704][u29983][u65292][u23545][u21543][u65311]</Entry>
+        <Entry Name="general_finalwords_version4_002_catherine_001">[u27809][u38169][u65292]Simon[u12290][u32676][u26143][u20013][u30340][u27704][u29983][u12290]</Entry>
+    </CATEGORY>
+</LANGUAGE>

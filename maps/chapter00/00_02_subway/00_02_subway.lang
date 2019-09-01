@@ -1,0 +1,43 @@
+<LANGUAGE>
+    <CATEGORY Name="Voices_00_02_subway">
+        <Entry Name="Announcer_StationStAndrew_001_Announcer_001">[u22307][u23433][u24503][u40065] [u8212][u8212] [u21363][u23558][u21040][u36798][u22307][u23433][u24503][u40065][u12290]</Entry>
+        <Entry Name="Announcer_StationOsgoode_001_Announcer_001">[u22885][u26031][u21476][u24503] [u8212][u8212] [u21363][u23558][u21040][u36798][u22885][u26031][u21476][u24503][u12290]</Entry>
+        <Entry Name="Announcer_StationStPatrick_001_Announcer_001">[u22307][u24085][u29305][u37324][u20811] [u8212][u8212] [u21363][u23558][u21040][u36798][u22307][u24085][u29305][u37324][u20811][u12290]</Entry>
+        <Entry Name="Announcer_StationQueensPark_001_Announcer_001">[u30343][u21518][u20844][u22253] [u8212][u8212] [u21363][u23558][u21040][u36798][u30343][u21518][u20844][u22253][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_001_Player_001">Jesse[u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_002_Jesse_001">Hi[u65292]Simon[u12290][u25105][u25910][u21040][u20102][u20320][u30340][u37038][u20214][u12290][u20063][u31069][u20320][u22909][u36816][u65292][u36824][u26377][u25105][u30693][u36947][u20320][u22312][u20445][u20305][u25105][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_003_Player_001">[u35874][u35874][u65292][u25105][u20570][u23436][u25195][u25551][u24212][u35813][u23601][u33021][u22238][u24215][u37324][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_004_Jesse_001">[u19981][u29992][u30528][u24613][u65292][u24215][u37324][u36824][u26377] Matt [u21644] Chris [u24110][u25105][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_005_Player_001">[u26469][u33258] S&L [u30340] Matty[u65311]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_006_Jesse_001">[u25105][u24819][u20320][u36824][u19981][u30693][u36947][u12290][u20182][u26159][u26469][u20840][u32844][u24037][u20316][u30340][u8212][u8212][u22312][u28459][u30011][u21306][u37027][u36793][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_007_Player_001">[u37027][u26159] Ashley [u30340][u24037][u20316][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_008_Jesse_001">[u21571][u65292][u21999][u12290][u19981][u36807][u8230][u8230]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_009_Player_001">[u31639][u20102][u12290][u30041][u30528][u20010][u31354][u32844][u20301][u23545][u22905][u19968][u28857][u24110][u21161][u37117][u27809][u26377][u12290][u21453][u27491][u22905][u20063][u22238][u19981][u26469][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_010_Jesse_001">[u21999][u65292][u31069][u20320][u22909][u36816][u12290][u24076][u26395][u20182][u20204][u33021][u21453][u36716][u25972][u20010][u8230][u8230][u21571][u8230][u8230][u20725][u23616][u12290]</Entry>
+        <Entry Name="simon_phonecall_emailsent_011_player_001">[u20725][u23616][u65311][u20320][u30340][u23433][u24944][u30495][u26377][u29992][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_012_Jesse_001">[u21780][u65292][u25105][u20063][u19981][u30693][u36947][u35201][u35828][u20123][u20160][u20040][u12290]</Entry>
+        <Entry Name="simon_phonecall_emailsent_013_player_001">[u24453][u20250][u20877][u35828][u21543][u65292]Jesse[u12290][u25105][u19981][u22312][u30340][u26102][u20505][u21035][u25226][u24215][u28903][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailSent_014_Jesse_001">[u25910][u21040][u65292][u20804][u24351][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_001_Player_001">Jesse[u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_002_Jesse_001">Simon[u65292][u24590][u20040][u20102][u65311][u25105][u36824][u24819][u38382][u20320][u20170][u22825][u21040][u19981][u21040][u24215][u37324][u26469][u30528][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_003_Player_001">[u36824][u35201][u19968][u27573][u26102][u38388][u12290][u25105][u20170][u22825][u35201][u20570][u20010][u25195][u25551][u35760][u24471][u21527][u65311]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_004_Jesse_001">[u20170][u22825][u65281]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_005_Player_001">[u25105][u23601][u30693][u36947][u20320][u24536][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_006_Jesse_001">[u23545][u19981][u36215][u12290][u19979][u27425][u36824][u26159][u21457][u23553][u37038][u20214][u32473][u25105][u21543][u12290][u30475][u20070][u38754][u30340][u19996][u35199][u25105][u25165][u19981][u23481][u26131][u24536][u35760][u65292][u20320][u25026][u30340][u65281]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_007_Player_001">[u35760][u24471][u24215][u37324][u20063][u21334][u26085][u21382][u21527][u65311][u20320][u24212][u35813][u20063][u20080][u19968][u20010][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_008_Jesse_001">[u25105][u26377][u26085][u21382][u12290][u21482][u19981][u36807][u8230][u8230][u25105][u20174][u19981][u22312][u19978][u38754][u20889][u19996][u35199][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_009_Player_001">[u24453][u20250][u25105][u21487][u33021][u21435][u24215][u37324][u12290][u35201][u30475][u36825][u20010][u25195][u25551][u35201][u25195][u22810][u20037][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_010_Jesse_001">[u22909][u30340][u12290][u25105][u21018][u21018][u35753] Chris [u36807][u26469][u24110][u25105][u12290][u24635][u20043][u25105][u20204][u21448][u26377][u20010][u20249][u35745][u21487][u20197][u20351][u21796][u20102][u12290][u20320][u21487][u20197][u36807][u26469][u25171][u22768][u25307][u21628][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_011_Player_001">[u36825][u20040][u24555][u23601][u25509][u26367] Ashley [u21834][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_012_Jesse_001">[u25105][u19981][u26159][u36825][u20010][u24847][u24605][u12290][u21482][u26159][u20320][u20063][u30693][u36947][u25105][u20204][u20154][u25163][u30495][u30340][u19981][u22815][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_013_Player_001">[u30830][u23454][u26368][u36817][u32570][u20154][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_014_Jesse_001">[u27491][u26159][u22914][u27492][u65292][u24050][u32463][u26368][u36817][u19968][u20010][u26376][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_015_Jesse_001">[u21453][u27491][u20320][u20808][u20570][u23436][u25195][u25551][u21543][u12290][u28982][u21518][u21548][u21307][u29983][u30340][u22909][u28040][u24687][u65292][u22238][u24215][u37324][u65292][u36319][u26032][u20154][u25171][u22768][u25307][u21628][u65292][u25105][u20877][u35831][u20320][u21507][u21320][u39277][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_016_Player_001">[u35874][u35874][u65292]Jesse[u12290][u22810][u35874][u20320][u30340][u25903][u25345][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_017_Jesse_001">[u19981][u24819][u20877][u25442][u20249][u35745][u20102][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_018_Player_001">[u36825][u19981][u22909][u31505][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_019_Jesse_001">[u36824][u26159][u26377][u28857][u21543][u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_020_Player_001">[u19981][u65292][u19981][u65292][u36825][u19981][u22909][u31505][u12290][u20877][u35265][u65292]Jesse[u12290]</Entry>
+        <Entry Name="Simon_Phonecall_EmailNotSent_021_Jesse_001">[u24453][u20250][u35265][u12290]</Entry>
+    </CATEGORY>
+</LANGUAGE>
