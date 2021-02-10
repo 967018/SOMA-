@@ -9,7 +9,7 @@
 3. 将之前下载的压缩包内的所有文件解压至上一步骤新建的文件夹内。
 #### 三、覆盖游戏文件
 1. 在本页 Releases 中下载zip压缩包。
-2. 将压缩包内的文件解压并覆盖至游戏安装根目录（如 C:\Program Files (x86)\Steam\steamapps\common）。
+2. 将压缩包内的文件解压并覆盖至游戏安装根目录（如 C:\Program Files (x86)\Steam\steamapps\common\SOMA）。
 ## 使用方法
 #### 一、若以 Mod 形式安装
 1. 在 Steam 客户端启动 SOMA。
